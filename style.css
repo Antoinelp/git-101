@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+#logo {
+	height: 80px;
+	width: 80px;
+}
+
+#container {
+	font-weight: bold;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column; 
+	background: url(italie.jpg);
+	background-blend-mode: saturation;
+}
